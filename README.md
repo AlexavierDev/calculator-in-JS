@@ -4,9 +4,9 @@ Project made to create a calculator in JS
 
 From The Odin Project's [curriculum](https://www.theodinproject.com/lessons/foundations-calculator).
 
-🔗 **Live preview:** [here](#)
+🔗 **Live preview:** [here](https://alexavierdev.github.io/calculator-in-JS/)
 
-![App Screenshot](media/screenshotCalculatoJs.png)
+![App Screenshot](media/screenshotCalculatoJs02.png)
 
 ## Built with
 
@@ -43,4 +43,6 @@ From The Odin Project's [curriculum](https://www.theodinproject.com/lessons/foun
 
 👤 **AlexavierDev**
 * GitHub: [AlexavierDev](https://github.com/alexavierdev)
+
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandroxavier/)
